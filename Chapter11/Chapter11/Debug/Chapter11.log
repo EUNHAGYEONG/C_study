@@ -1,0 +1,5 @@
+﻿  11-2문제2.c
+  11-2문제3.c
+c:\users\pc\desktop\1-2\cstudy\chapter11\chapter11\11-2문제3.c(12): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
+  Chapter11.vcxproj -> C:\Users\pc\Desktop\1-2\Cstudy\Chapter11\Debug\Chapter11.exe

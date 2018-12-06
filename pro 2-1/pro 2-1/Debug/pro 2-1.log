@@ -1,0 +1,7 @@
+﻿  1.c
+c:\users\pc\desktop\1-2\cstudy\pro 2-1\pro 2-1\1.c(6): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  2.c
+c:\users\pc\desktop\1-2\cstudy\pro 2-1\pro 2-1\2.c(8): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
+2.obj : error LNK2005: _main이(가) 1.obj에 이미 정의되어 있습니다.
+C:\Users\pc\Desktop\1-2\Cstudy\pro 2-1\Debug\pro 2-1.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

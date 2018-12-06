@@ -1,0 +1,4 @@
+﻿  chapter07.c
+c:\users\pc\desktop\1-2\cstudy\chapter07.반복실행을 명령하는 반복문\chapter07.반복실행을 명령하는 반복문\chapter07.c(505): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\pc\desktop\1-2\cstudy\chapter07.반복실행을 명령하는 반복문\chapter07.반복실행을 명령하는 반복문\chapter07.c(502): error C4700: 초기화되지 않은 'Aj' 지역 변수를 사용했습니다.
+c:\users\pc\desktop\1-2\cstudy\chapter07.반복실행을 명령하는 반복문\chapter07.반복실행을 명령하는 반복문\chapter07.c(502): error C4700: 초기화되지 않은 'Bj' 지역 변수를 사용했습니다.
