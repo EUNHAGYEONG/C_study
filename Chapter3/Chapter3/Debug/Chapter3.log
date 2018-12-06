@@ -1,0 +1,7 @@
+﻿  변수와 자료형.c
+c:\users\pc\desktop\1-2\c언어경은하\chapter3\chapter3\변수와 자료형.c(270): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pc\desktop\1-2\c언어경은하\chapter3\chapter3\변수와 자료형.c(271): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\pc\desktop\1-2\c언어경은하\chapter3\chapter3\변수와 자료형.c(271): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 0개가 제공되었습니다.
+  c:\users\pc\desktop\1-2\c언어경은하\chapter3\chapter3\변수와 자료형.c(271): note: 누락된 variadic 인수 1이(가) 서식 문자열 '%f'에 필요합니다.
+c:\users\pc\desktop\1-2\c언어경은하\chapter3\chapter3\변수와 자료형.c(273): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Chapter3.vcxproj -> C:\Users\pc\Desktop\1-2\C언어경은하\Chapter3\Debug\Chapter3.exe

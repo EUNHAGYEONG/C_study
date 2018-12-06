@@ -1,0 +1,4 @@
+﻿  Programming .c
+c:\users\pc\desktop\1-2\c언어경은하\chapter7\chapter7\programming .c(17): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pc\desktop\1-2\c언어경은하\chapter7\chapter7\programming .c(23): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Chapter7.vcxproj -> C:\Users\pc\Desktop\1-2\C언어경은하\Chapter7\Debug\Chapter7.exe

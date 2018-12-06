@@ -1,0 +1,20 @@
+/*
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	int i;
+	double d;
+
+	i = atoi("100");
+	printf("%d \n", i);
+
+	d = atof("36.5");
+	printf("%f \n", d);
+
+	printf("%d \n", sizeof(i));
+	printf("%d \n", sizeof(d));
+
+	return 0;
+}
+*/

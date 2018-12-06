@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="score1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="code.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="score2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="score5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="배열에 출석 기록하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="수업.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="가장 싼 물건 찾기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="배열에서 특정한 값 탐색하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bbble sort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="행렬의 덧셈.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Tic-Tac-Toe 게임.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Programming1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Programming2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Programming3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Programming4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Programming5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Programming6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Programming7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Programming .c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
