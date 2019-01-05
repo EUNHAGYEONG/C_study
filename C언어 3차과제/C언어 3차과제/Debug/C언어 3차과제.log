@@ -1,0 +1,6 @@
+﻿  6.c
+c:\users\pc\desktop\1-2\c언어경은하\c언어 3차과제\c언어 3차과제\6.c(46): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\pc\desktop\1-2\c언어경은하\c언어 3차과제\c언어 3차과제\6.c(47): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\pc\desktop\1-2\c언어경은하\c언어 3차과제\c언어 3차과제\6.c(51): warning C4013: 'putch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\pc\desktop\1-2\c언어경은하\c언어 3차과제\c언어 3차과제\6.c(54): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  C언어 3차과제.vcxproj -> C:\Users\pc\Desktop\1-2\C언어경은하\C언어 3차과제\Debug\C언어 3차과제.exe
