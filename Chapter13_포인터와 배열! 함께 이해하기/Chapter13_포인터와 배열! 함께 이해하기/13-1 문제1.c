@@ -14,11 +14,14 @@ int main(void)
 
 	int i;
 	
-	for (i = 0; i < 5; i++)
-	{
-		*(ptr + i) += 2;
-		printf("%d ", *(ptr + i));
+	for (i = 0; i < 5; i++) {
+		*ptr += 2;
+
+		ptr++;
 	}
+
+	for (i = 0; i < 5; i++)
+		printf("%d ", arr[i]);
 
 	return 0;
 }

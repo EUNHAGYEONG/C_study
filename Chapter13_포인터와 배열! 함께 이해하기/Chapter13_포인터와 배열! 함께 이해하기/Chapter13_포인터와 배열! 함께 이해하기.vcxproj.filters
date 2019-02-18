@@ -39,5 +39,14 @@
     <ClCompile Include="13-1 문제4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="TwoStringType.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerArray.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StringArray.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

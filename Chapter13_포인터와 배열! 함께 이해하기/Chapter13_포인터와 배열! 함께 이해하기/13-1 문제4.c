@@ -11,18 +11,15 @@ int main(void)
 {
 	int arr[6] = { 1, 2, 3, 4, 5, 6 };
 
-	int *ptr1 = NULL, *ptr2 = NULL;
+	int *ptr1 = arr, *ptr2 = &arr[5];
 	int tmp;
 	int i;
 	
 	for (i = 0; i < 3; i++)
 	{
-		ptr1 = arr[i];
-		ptr2 = arr[5 - i];
-
-		tmp = ptr1;
-		ptr1 = ptr2;
-		ptr2 = tmp;
+		tmp = *(ptr1 + i);
+		*(ptr1 + i) = *(ptr2 - i);
+		*(ptr2 - i) = tmp;
 	}
 
 	for (i = 0; i < 6; i++)

@@ -25,8 +25,11 @@
     <ClCompile Include="13-1 문제4.c" />
     <ClCompile Include="ArrayNamePointer.c" />
     <ClCompile Include="ArrayNamePointerOperation.c" />
+    <ClCompile Include="PointerArray.c" />
     <ClCompile Include="PointerBseArrayAccess.c" />
     <ClCompile Include="PointerOperationResult.c" />
+    <ClCompile Include="StringArray.c" />
+    <ClCompile Include="TwoStringType.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
