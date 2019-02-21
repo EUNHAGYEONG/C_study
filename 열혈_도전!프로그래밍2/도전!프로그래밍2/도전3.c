@@ -10,17 +10,12 @@
 
 int main(void)
 {
-	int array[10];
+	int arr1[3] = { 1, 2, 3 };
+	int arr2[4] = { 4, 5, 6, 7 };
+	int arr3[ ];
 
-	int i;
-	for (i = 0; i < 10; i++)
-	{
-		printf("ÀÔ·Â : ");
-		scanf_s("%d", &array[i]);
-	}
-
-	for (i = 0; i < 10; i++)
-	{
-		if (array[i] % 2 )
-	}
+	arr3 = arr1 + arr2;
+	
+	for 
+	
 }

@@ -10,15 +10,32 @@ int main(void)
 {
 	int num;
 	int array[10];
+	int i = 0;
+	int quo, rem;
 
 	printf("10진수 정수 입력 : ");
-	scanf_s("%d", num);
+	scanf_s("%d", &num);
 
-	while (num / 2 != 0)
+	while (num != 0)
 	{
+		quo = num / 2;
+		rem = num % 2;
+		array[i] = rem;
 
+		num = quo;
+		i++;
+
+	
 	}
 
+	int len;
+	
+	for (len = i - 1; len >= 0; len--)
+	{
+		printf("%d", array[len]);
+	}
+		
 
+	return 0;
 }
 */
